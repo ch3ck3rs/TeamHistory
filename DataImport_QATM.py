@@ -1,9 +1,10 @@
+from SourceLauren import *
 import pandas as pd
 
 # pd.set_option('display.max_columns', 50)
 # pd.set_option('display.width', 150)
 
-path = r"C:\Users\coffmlv\OneDrive - Ecolab\! Transition Documents\Metrics\Python\PythonTrainingData.txt"
+path = qatmFile
 
 ###
 # Column formatting
